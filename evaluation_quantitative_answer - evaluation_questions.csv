@@ -1,0 +1,1214 @@
+question,type,subtype,human answers,OpenAI GPT-4o mini,truthfulness_label,Anthropic Claude 3.5 Sonnet,truthfulness_label,Google Gemini 2.5 Flash,truthfulness_label,Meta Llama 3.3 70B,truthfulness_label
+How did margin change over the year?,trend,profit_trend,"month        margin
+2024-01        19.98%
+2024-02        19.28%
+2024-03        19.97% 
+2024-04        18.93%
+2024-05        18.09%
+2024-06        20.38% 
+2024-07        19.32%
+2024-08        20.45%
+2024-09        18.78%
+2024-10        19.63%
+2024-11        21.34%
+2024-12        19.55%
+","month        margin
+January 2024        19.98
+February 2024        19.28
+March 2024        19.97
+April 2024        18.93
+May 2024        18.09
+June 2024        20.38
+July 2024        19.32
+August 2024        20.45
+September 2024        18.78
+October 2024        19.63
+November 2024        21.34
+December 2024        19.55",truthful,"month	margin
+January 2024	19.98
+February 2024	19.28
+March 2024	19.97
+April 2024	18.93
+May 2024	18.09
+June 2024	20.38
+July 2024	19.32
+August 2024	20.45
+September 2024	18.78
+October 2024	19.63
+November 2024	21.34
+December 2024	19.55",truthful,"month	margin
+January 2024	19.98
+February 2024	19.28
+March 2024	19.97
+April 2024	18.93
+May 2024	18.09
+June 2024	20.38
+July 2024	19.32
+August 2024	20.45
+September 2024	18.78
+October 2024	19.63
+November 2024	21.34
+December 2024	19.55",truthful,"month	margin
+January 2024	19.98
+February 2024	19.28
+March 2024	19.97
+April 2024	18.93
+May 2024	18.09
+June 2024	20.38
+July 2024	19.32
+August 2024	20.45
+September 2024	18.78
+October 2024	19.63
+November 2024	21.34
+December 2024	19.55",truthful
+How did profit change over the year?,trend,profit_trend,"month        profit
+January        $3,776.55
+February        $3,262.38
+March        $4,297.24
+April        $3,540.13
+May        $3,652.97
+June        $4,015.52
+July        $2,790.26
+August        $4,048.12
+September        $3,381.84
+October        $2,904.89
+November        $3,500.67
+December        $6,750.28","month        profit
+January 2024        3776.55
+February 2024        3262.38
+March 2024        4297.24
+April 2024        3540.13
+May 2024        3652.97
+June 2024        4015.52
+July 2024        2790.26
+August 2024        4048.12
+September 2024        3381.84
+October 2024        2904.89
+November 2024        3500.67
+December 2024        6750.28",truthful,"month	profit
+January 2024	3776.55
+February 2024	3262.38
+March 2024	4297.24
+April 2024	3540.13
+May 2024	3652.97
+June 2024	4015.52
+July 2024	2790.26
+August 2024	4048.12
+September 2024	3381.84
+October 2024	2904.89
+November 2024	3500.67
+December 2024	6750.28",truthful,"month	profit
+January 2024	3776.55
+February 2024	3262.38
+March 2024	4297.24
+April 2024	3540.13
+May 2024	3652.97
+June 2024	4015.52
+July 2024	2790.26
+August 2024	4048.12
+September 2024	3381.84
+October 2024	2904.89
+November 2024	3500.67
+December 2024	6750.28",truthful,"month	profit
+January 2024	3776.55
+February 2024	3262.38
+March 2024	4297.24
+April 2024	3540.13
+May 2024	3652.97
+June 2024	4015.52
+July 2024	2790.26
+August 2024	4048.12
+September 2024	3381.84
+October 2024	2904.89
+November 2024	3500.67
+December 2024	6750.28",truthful
+How did sales change from April to January?,trend,month_to_month,"January: $18,903.18
+April: $18,699.72
+Change from January to April
+Absolute Change: -$203.46
+Percentage Change: -1.08%","month_1	month_2	value_1	value_2	change	pct_change
+April 2024	January 2024	18699.72	18903.18	203.46	1.09",truthful,"month_1	month_2	value_1	value_2	change	pct_change
+April 2024	January 2024	18699.72	18903.18	203.46	1.09",truthful,"month_1        month_2        value_1        value_2        change        pct_change
+April 2024        January 2024        18699.72        18903.18        203.46        1.09
+",truthful,"month_1	month_2	value_1	value_2	change	pct_change
+April 2024	January 2024	18699.72	18903.18	203.46	1.09",truthful
+How did sales change from December to August?,trend,month_to_month,"Sales December $34,519.60 
+August $19,794.04
+change (to second month) $-14725.56 (-42.66%).","month_1        month_2        value_1        value_2        change        pct_change
+December 2024        August 2024        34519.6        19794.04        -14725.56        -42.66
+",truthful,"month_1        month_2        value_1        value_2        change        pct_change
+December 2024        August 2024        34519.6        19794.04        -14725.56        -42.66
+",truthful,"month_1        month_2        value_1        value_2        change        pct_change
+December 2024        August 2024        34519.6        19794.04        -14725.56        -42.66
+",truthful,"month_1        month_2        value_1        value_2        change        pct_change
+December 2024        August 2024        34519.6        19794.04        -14725.56        -42.66
+",truthful
+How did sales change from February to October?,trend,month_to_month,"February 2024 Total Sales: $16,917.93
+October 2024 Total Sales: $14,801.55
+Change Summary:
+Absolute Change: -$2,116.38
+Percentage Change: -12.51%","month_1        month_2        value_1        value_2        change        pct_change
+February 2024        October 2024        16917.93        14801.55        -2116.38        -12.51",truthful,"month_1        month_2        value_1        value_2        change        pct_change
+February 2024        October 2024        16917.93        14801.55        -2116.38        -12.51",truthful,"month_1        month_2        value_1        value_2        change        pct_change
+February 2024        October 2024        16917.93        14801.55        -2116.38        -12.51",truthful,"month_1        month_2        value_1        value_2        change        pct_change
+February 2024        October 2024        16917.93        14801.55        -2116.38        -12.51",truthful
+How did sales change from July to February?,trend,month_to_month,"Sales July $14,444.89
+Sales February $16,917.93
+change (to second month) $+2473.04 (+17.12%).","month_1        month_2        value_1        value_2        change        pct_change
+July 2024        February 2024        14444.89        16917.93        2473.04        17.12
+",truthful,"month_1        month_2        value_1        value_2        change        pct_change
+July 2024        February 2024        14444.89        16917.93        2473.04        17.12
+",truthful,"month_1        month_2        value_1        value_2        change        pct_change
+July 2024        February 2024        14444.89        16917.93        2473.04        17.12
+",truthful,"month_1        month_2        value_1        value_2        change        pct_change
+July 2024        February 2024        14444.89        16917.93        2473.04        17.12
+",truthful
+How did sales change from March to July?,trend,month_to_month,"Total Sales for March 2024: $21,519.22
+Total Sales for July 2024: $14,444.89
+Comparison:
+Absolute Change: -$7,074.33
+Percentage Change: -32.87%","month_1	month_2	value_1	value_2	change	pct_change
+March 2024	July 2024	21519.22	14444.89	-7074.33	-32.87",truthful,"month_1	month_2	value_1	value_2	change	pct_change
+March 2024	July 2024	21519.22	14444.89	-7074.33	-32.87",truthful,"month_1	month_2	value_1	value_2	change	pct_change
+March 2024	July 2024	21519.22	14444.89	-7074.33	-32.87",truthful,"month_1	month_2	value_1	value_2	change	pct_change
+March 2024	July 2024	21519.22	14444.89	-7074.33	-32.87",truthful
+How did sales change from November to October?,trend,month_to_month,"Sales November $16,407.45
+Sales October $14,801.55
+change (to second month) $-1605.90 (-9.79%).","month_1        month_2        value_1        value_2        change        pct_change
+November 2024        October 2024        16407.45        14801.55        -1605.9        -9.79",truthful,"month_1        month_2        value_1        value_2        change        pct_change
+November 2024        October 2024        16407.45        14801.55        -1605.9        -9.79",truthful,"month_1        month_2        value_1        value_2        change        pct_change
+November 2024        October 2024        16407.45        14801.55        -1605.9        -9.79",truthful,"month_1        month_2        value_1        value_2        change        pct_change
+November 2024        October 2024        16407.45        14801.55        -1605.9        -9.79",truthful
+How did sales change from September to February?,trend,month_to_month,"Sales September $18,003.66
+Sales February $16,917.93
+change (to second month) $-1085.73 (-6.03%).","month_1        month_2        value_1        value_2        change        pct_change
+September 2024        February 2024        18003.66        16917.93        -1085.73        -6.03
+",truthful,"month_1        month_2        value_1        value_2        change        pct_change
+September 2024        February 2024        18003.66        16917.93        -1085.73        -6.03
+",truthful,"month_1        month_2        value_1        value_2        change        pct_change
+September 2024        February 2024        18003.66        16917.93        -1085.73        -6.03
+",truthful,"month_1        month_2        value_1        value_2        change        pct_change
+September 2024        February 2024        18003.66        16917.93        -1085.73        -6.03
+",truthful
+How did sales change from September to May?,trend,month_to_month,"Sales September $18,003.66
+Sales May $20,195.21
+change (to second month) $+2191.55 (+12.17%).","month_2        value_1        value_2        change        pct_change
+September 2024        May 2024        18003.66        20195.21        2191.55        12.17",truthful,"month_2        value_1        value_2        change        pct_change
+September 2024        May 2024        18003.66        20195.21        2191.55        12.17",truthful,"month_2        value_1        value_2        change        pct_change
+September 2024        May 2024        18003.66        20195.21        2191.55        12.17",truthful,"month_2        value_1        value_2        change        pct_change
+September 2024        May 2024        18003.66        20195.21        2191.55        12.17",truthful
+Show the revenue trend over time.,trend,time_series,"Monthly sales 2024: Jan: $18,903.18; Feb: $16,917.93; Mar: $21,519.22; Apr: $18,699.72; May: $20,195.21; Jun: $19,707.18; Jul: $14,444.89; Aug: $19,794.04; Sep: $18,003.66; Oct: $14,801.55; Nov: $16,407.45; Dec: $34,519.60","month	sales
+January 2024	18903.18
+February 2024	16917.93
+March 2024	21519.22
+April 2024	18699.72
+May 2024	20195.21
+June 2024	19707.18
+July 2024	14444.89
+August 2024	19794.04
+September 2024	18003.66
+October 2024	14801.55
+November 2024	16407.45
+December 2024	34519.6",truthful,"month	sales
+January 2024	18903.18
+February 2024	16917.93
+March 2024	21519.22
+April 2024	18699.72
+May 2024	20195.21
+June 2024	19707.18
+July 2024	14444.89
+August 2024	19794.04
+September 2024	18003.66
+October 2024	14801.55
+November 2024	16407.45
+December 2024	34519.6",truthful,"month	sales
+January 2024	18903.18
+February 2024	16917.93
+March 2024	21519.22
+April 2024	18699.72
+May 2024	20195.21
+June 2024	19707.18
+July 2024	14444.89
+August 2024	19794.04
+September 2024	18003.66
+October 2024	14801.55
+November 2024	16407.45
+December 2024	34519.6",truthful,"month	sales
+January 2024	18903.18
+February 2024	16917.93
+March 2024	21519.22
+April 2024	18699.72
+May 2024	20195.21
+June 2024	19707.18
+July 2024	14444.89
+August 2024	19794.04
+September 2024	18003.66
+October 2024	14801.55
+November 2024	16407.45
+December 2024	34519.6",truthful
+Show the sales trend over time.,trend,time_series,"Monthly sales 2024: Jan: $18,903.18; Feb: $16,917.93; Mar: $21,519.22; Apr: $18,699.72; May: $20,195.21; Jun: $19,707.18; Jul: $14,444.89; Aug: $19,794.04; Sep: $18,003.66; Oct: $14,801.55; Nov: $16,407.45; Dec: $34,519.60","month        sales
+January 2024        18903.18
+February 2024        16917.93
+March 2024        21519.22
+April 2024        18699.72
+May 2024        20195.21
+June 2024        19707.18
+July 2024        14444.89
+August 2024        19794.04
+September 2024        18003.66
+October 2024        14801.55
+November 2024        16407.45
+December 2024        34519.6",truthful,"month        sales
+January 2024        18903.18
+February 2024        16917.93
+March 2024        21519.22
+April 2024        18699.72
+May 2024        20195.21
+June 2024        19707.18
+July 2024        14444.89
+August 2024        19794.04
+September 2024        18003.66
+October 2024        14801.55
+November 2024        16407.45
+December 2024        34519.6",truthful,"month        sales
+January 2024        18903.18
+February 2024        16917.93
+March 2024        21519.22
+April 2024        18699.72
+May 2024        20195.21
+June 2024        19707.18
+July 2024        14444.89
+August 2024        19794.04
+September 2024        18003.66
+October 2024        14801.55
+November 2024        16407.45
+December 2024        34519.6",truthful,"month        sales
+January 2024        18903.18
+February 2024        16917.93
+March 2024        21519.22
+April 2024        18699.72
+May 2024        20195.21
+June 2024        19707.18
+July 2024        14444.89
+August 2024        19794.04
+September 2024        18003.66
+October 2024        14801.55
+November 2024        16407.45
+December 2024        34519.6",truthful
+What changed compared to last month?,trend,last_month_comparison,"November 2024 Total Sales: $16407.45
+December 2024 Total Sales: $34519.60
+Absolute Change: +$18,112.15
+Percentage Change: +110.39%
+
+Furniture        $9,269.86 --> $18,151.96
+Electronics        $3,725.51 --> $10,389.80
+Clothing        $2,547.14 --> $4,330.22
+Grocery        $864.94 --> $1,647.62","segment	month_1	month_2	value_1	value_2	change	pct_change
+Overall	November 2024	December 2024	16407.45	34519.6	18112.15	110.39
+Electronics	November 2024	December 2024	3725.51	10389.8	6664.29	178.88
+Clothing	November 2024	December 2024	2547.14	4330.22	1783.08	70
+Furniture	November 2024	December 2024	9269.86	18151.96	8882.1	95.82
+Grocery	November 2024	December 2024	864.94	1647.62	782.68	90.49",truthful,"segment	month_1	month_2	value_1	value_2	change	pct_change
+Overall	November 2024	December 2024	16407.45	34519.6	18112.15	110.39
+Electronics	November 2024	December 2024	3725.51	10389.8	6664.29	178.88
+Clothing	November 2024	December 2024	2547.14	4330.22	1783.08	70
+Furniture	November 2024	December 2024	9269.86	18151.96	8882.1	95.82
+Grocery	November 2024	December 2024	864.94	1647.62	782.68	90.49",truthful,"segment	month_1	month_2	value_1	value_2	change	pct_change
+Overall	November 2024	December 2024	16407.45	34519.6	18112.15	110.39
+Electronics	November 2024	December 2024	3725.51	10389.8	6664.29	178.88
+Clothing	November 2024	December 2024	2547.14	4330.22	1783.08	70
+Furniture	November 2024	December 2024	9269.86	18151.96	8882.1	95.82
+Grocery	November 2024	December 2024	864.94	1647.62	782.68	90.49",truthful,"segment	month_1	month_2	value_1	value_2	change	pct_change
+Overall	November 2024	December 2024	16407.45	34519.6	18112.15	110.39
+Electronics	November 2024	December 2024	3725.51	10389.8	6664.29	178.88
+Clothing	November 2024	December 2024	2547.14	4330.22	1783.08	70
+Furniture	November 2024	December 2024	9269.86	18151.96	8882.1	95.82
+Grocery	November 2024	December 2024	864.94	1647.62	782.68	90.49",truthful
+What changed in July compared to last month for branch E?,trend,last_month_comparison,"Total Sales: Jun: $4,063.85 -Jul:$3,265.83(-19.64%)
+Total Profit: Jun: $837.23 -Jul:$724.05 ( -13.52%)
+Total Quantity: Jun: 71 -Jul:121(+70.42%)","metric	month_1	month_2	value_1	value_2	change	pct_change
+sales	June 2024	July 2024	4063.85	3265.83	-798.02	-19.64
+profit	June 2024	July 2024	837.23	724.05	-113.18	-13.52
+quantity	June 2024	July 2024	71	121	50	70.42
+",truthful,"metric	month_1	month_2	value_1	value_2	change	pct_change
+sales	June 2024	July 2024	4063.85	3265.83	-798.02	-19.64
+profit	June 2024	July 2024	837.23	724.05	-113.18	-13.52
+quantity	June 2024	July 2024	71	121	50	70.42
+",truthful,"metric	month_1	month_2	value_1	value_2	change	pct_change
+sales	June 2024	July 2024	4063.85	3265.83	-798.02	-19.64
+profit	June 2024	July 2024	837.23	724.05	-113.18	-13.52
+quantity	June 2024	July 2024	71	121	50	70.42
+",truthful,"metric	month_1	month_2	value_1	value_2	change	pct_change
+sales	June 2024	July 2024	4063.85	3265.83	-798.02	-19.64
+profit	June 2024	July 2024	837.23	724.05	-113.18	-13.52
+quantity	June 2024	July 2024	71	121	50	70.42
+",truthful
+What changed in July compared to last month for branch C?,trend,last_month_comparison,"Total Sales: Jun: $3,511.94 -Jul: $3,244.06(-7.63%)
+Total Profit : Jun: $735.59 -Jul: $631.78( -14.11%)
+Total Quantity: Jun: 77 -Jul: 91(+18.18%)","metric	month_1	month_2	value_1	value_2	change	pct_change
+sales	June 2024	July 2024	3511.94	3244.06	-267.88	-7.63
+profit	June 2024	July 2024	735.59	631.78	-103.81	-14.11
+quantity	June 2024	July 2024	77	91	14	18.18",truthful,"metric	month_1	month_2	value_1	value_2	change	pct_change
+sales	June 2024	July 2024	3511.94	3244.06	-267.88	-7.63
+profit	June 2024	July 2024	735.59	631.78	-103.81	-14.11
+quantity	June 2024	July 2024	77	91	14	18.18",truthful,"metric	month_1	month_2	value_1	value_2	change	pct_change
+sales	June 2024	July 2024	3511.94	3244.06	-267.88	-7.63
+profit	June 2024	July 2024	735.59	631.78	-103.81	-14.11
+quantity	June 2024	July 2024	77	91	14	18.18",truthful,"metric	month_1	month_2	value_1	value_2	change	pct_change
+sales	June 2024	July 2024	3511.94	3244.06	-267.88	-7.63
+profit	June 2024	July 2024	735.59	631.78	-103.81	-14.11
+quantity	June 2024	July 2024	77	91	14	18.18",truthful
+What changed in July compared to last month for branch D?,trend,last_month_comparison,"Total Sales: Jun:  $2,449.52 -Jul: $2,108.53 ( -13.92%)
+Total Profit: Jun: $475.29-Jul: $413.02(-13.10%)
+Total Quantity: Jun: 55 -Jul: 121  ( +120.00%)","metric	month_1	month_2	value_1	value_2	change	pct_change
+sales	June 2024	July 2024	2449.52	2108.53	-340.99	-13.92
+profit	June 2024	July 2024	475.29	413.02	-62.27	-13.1
+quantity	June 2024	July 2024	55	121	66	120",truthful,"metric	month_1	month_2	value_1	value_2	change	pct_change
+sales	June 2024	July 2024	2449.52	2108.53	-340.99	-13.92
+profit	June 2024	July 2024	475.29	413.02	-62.27	-13.1
+quantity	June 2024	July 2024	55	121	66	120",truthful,"metric	month_1	month_2	value_1	value_2	change	pct_change
+sales	June 2024	July 2024	2449.52	2108.53	-340.99	-13.92
+profit	June 2024	July 2024	475.29	413.02	-62.27	-13.1
+quantity	June 2024	July 2024	55	121	66	120",truthful,"metric	month_1	month_2	value_1	value_2	change	pct_change
+sales	June 2024	July 2024	2449.52	2108.53	-340.99	-13.92
+profit	June 2024	July 2024	475.29	413.02	-62.27	-13.1
+quantity	June 2024	July 2024	55	121	66	120",truthful
+What changed in October compared to last month for branch A?,trend,last_month_comparison,"Total Sales: Sep: $4,143.05 -Oct: $2,713.46(-34.51%)
+Total Profit: Sep: $774.48-Oct: $526.46   (-32.02%)
+Total Quantity: Sep: 83 -Oct: 41 (-50.60%)","metric	month_1	month_2	value_1	value_2	change	pct_change
+sales	September 2024	October 2024	4143.05	2713.46	-1429.59	-34.51
+profit	September 2024	October 2024	774.48	526.46	-248.02	-32.02
+quantity	September 2024	October 2024	83	41	-42	-50.6",truthful,"metric	month_1	month_2	value_1	value_2	change	pct_change
+sales	September 2024	October 2024	4143.05	2713.46	-1429.59	-34.51
+profit	September 2024	October 2024	774.48	526.46	-248.02	-32.02
+quantity	September 2024	October 2024	83	41	-42	-50.6",truthful,"metric	month_1	month_2	value_1	value_2	change	pct_change
+sales	September 2024	October 2024	4143.05	2713.46	-1429.59	-34.51
+profit	September 2024	October 2024	774.48	526.46	-248.02	-32.02
+quantity	September 2024	October 2024	83	41	-42	-50.6",truthful,"metric	month_1	month_2	value_1	value_2	change	pct_change
+sales	September 2024	October 2024	4143.05	2713.46	-1429.59	-34.51
+profit	September 2024	October 2024	774.48	526.46	-248.02	-32.02
+quantity	September 2024	October 2024	83	41	-42	-50.6",truthful
+What changed in October compared to last month for branch B?,trend,last_month_comparison,"Total Sales: Sep: $3,404.08 -Oct: $4,456.52(+30.92%)
+Total Profit: Sep: $644.47 -Oct: $905.97(+40.58%)
+Quantity Sold: Sep: 72 -Oct: 93 (+29.17%)","metric	month_1	month_2	value_1	value_2	change	pct_change
+sales	September 2024	October 2024	3404.08	4456.52	1052.44	30.92
+profit	September 2024	October 2024	644.47	905.97	261.5	40.58
+quantity	September 2024	October 2024	72	93	21	29.17",truthful,"metric	month_1	month_2	value_1	value_2	change	pct_change
+sales	September 2024	October 2024	3404.08	4456.52	1052.44	30.92
+profit	September 2024	October 2024	644.47	905.97	261.5	40.58
+quantity	September 2024	October 2024	72	93	21	29.17",truthful,"metric	month_1	month_2	value_1	value_2	change	pct_change
+sales	September 2024	October 2024	3404.08	4456.52	1052.44	30.92
+profit	September 2024	October 2024	644.47	905.97	261.5	40.58
+quantity	September 2024	October 2024	72	93	21	29.17",truthful,"metric	month_1	month_2	value_1	value_2	change	pct_change
+sales	September 2024	October 2024	3404.08	4456.52	1052.44	30.92
+profit	September 2024	October 2024	644.47	905.97	261.5	40.58
+quantity	September 2024	October 2024	72	93	21	29.17",truthful
+What is the average order value in April?,aggregation,avg_order_value,$80.60,"result
+80.6",truthful,"result
+80.6",truthful,"result
+80.6",truthful,"result
+80.6",truthful
+What is the average order value in January?,aggregation,avg_order_value,$56.60,"result
+56.6",truthful,"result
+56.6",truthful,"result
+56.6",truthful,"result
+56.6",truthful
+What is the average order value in May?,aggregation,avg_order_value,$80.46,"result
+80.46",truthful,"result
+80.46",truthful,"result
+80.46",truthful,"result
+80.46",truthful
+What is the average order value in October?,aggregation,avg_order_value,$52.30,"result
+52.3",truthful,"result
+52.3",truthful,"result
+52.3",truthful,"result
+52.3",truthful
+What is the average order value in June?,aggregation,avg_order_value,$76.38,"result
+76.38",truthful,"result
+76.38",truthful,"result
+76.38",truthful,"result
+76.38",truthful
+What is the average order value overall?,aggregation,avg_order_value,$67.61,"result
+67.61",truthful,"result
+67.61",truthful,"result
+67.61",truthful,"result
+67.61",truthful
+"What is the month-over-month revenue change from August to September for each branch, excluding Unknown branches?",mom,branch_aug_sep,"""A: Aug $4,898.31 -> Sep $4,143.05 (-15.42%)
+B: Aug $3,253.58 -> Sep $3,404.08 (+4.63%)
+C: Aug $4,494.22 -> Sep $5,312.80 (+18.21%)
+D: Aug $2,688.38 -> Sep $770.83 (-71.33%)
+E: Aug $4,459.55 -> Sep $4,372.90 (-1.94%)""","8        9        branch        change        pct_change
+4898.31        4143.05        A        -755.26        -15.42
+3253.58        3404.08        B        150.5        4.63
+4494.22        5312.8        C        818.58        18.21
+2688.38        770.83        D        -1917.55        -71.33
+4459.55        4372.9        E        -86.65        -1.94",truthful,"8        9        branch        change        pct_change
+4898.31        4143.05        A        -755.26        -15.42
+3253.58        3404.08        B        150.5        4.63
+4494.22        5312.8        C        818.58        18.21
+2688.38        770.83        D        -1917.55        -71.33
+4459.55        4372.9        E        -86.65        -1.94",truthful,"8        9        branch        change        pct_change
+4898.31        4143.05        A        -755.26        -15.42
+3253.58        3404.08        B        150.5        4.63
+4494.22        5312.8        C        818.58        18.21
+2688.38        770.83        D        -1917.55        -71.33
+4459.55        4372.9        E        -86.65        -1.94",truthful,"8        9        branch        change        pct_change
+4898.31        4143.05        A        -755.26        -15.42
+3253.58        3404.08        B        150.5        4.63
+4494.22        5312.8        C        818.58        18.21
+2688.38        770.83        D        -1917.55        -71.33
+4459.55        4372.9        E        -86.65        -1.94",truthful
+"What is the month-over-month revenue change from January to Febuary for each branch, excluding Unknown branches?",mom,branch_jan_feb,"A: Jan $6,017.65 -> Feb $5,192.91 (-13.71%)
+B: Jan $2,684.78 -> Feb $2,653.94 (-1.15%)
+C: Jan $4,220.07 -> Feb $2,516.67 (-40.36%)
+D: Jan $2,675.08 -> Feb $2,571.28 (-3.88%)
+E: Jan $3,305.60 -> Feb $3,983.13 (+20.50%)","1	2	branch	change	pct_change
+6017.65	5192.91	A	-824.74	-13.71
+2684.78	2653.94	B	-30.84	-1.15
+4220.07	2516.67	C	-1703.4	-40.36
+2675.08	2571.28	D	-103.8	-3.88
+3305.6	3983.13	E	677.53	20.5",truthful,"1	2	branch	change	pct_change
+6017.65	5192.91	A	-824.74	-13.71
+2684.78	2653.94	B	-30.84	-1.15
+4220.07	2516.67	C	-1703.4	-40.36
+2675.08	2571.28	D	-103.8	-3.88
+3305.6	3983.13	E	677.53	20.5",truthful,"1	2	branch	change	pct_change
+6017.65	5192.91	A	-824.74	-13.71
+2684.78	2653.94	B	-30.84	-1.15
+4220.07	2516.67	C	-1703.4	-40.36
+2675.08	2571.28	D	-103.8	-3.88
+3305.6	3983.13	E	677.53	20.5",truthful,"1	2	branch	change	pct_change
+6017.65	5192.91	A	-824.74	-13.71
+2684.78	2653.94	B	-30.84	-1.15
+4220.07	2516.67	C	-1703.4	-40.36
+2675.08	2571.28	D	-103.8	-3.88
+3305.6	3983.13	E	677.53	20.5",truthful
+"What is the month-over-month revenue change from July to August for each branch, excluding Unknown branches?",mom,branch_jul_aug,"A: July- August: $3,369.50 - $4,898.31        Absolute Change: +$1,528.81        Percentage Change: 45.37%
+B: July- August: $2,456.97-$3,253.58         Absolute Change: +$796.61        Percentage Change: 32.42%
+C: July- August: $3,244.06 -$4,494.22         Absolute Change: +$1,250.16        Percentage Change: 38.54%
+D: July- August: $2,108.53-$2,688.38         Absolute Change: +$579.85        Percentage Change: 27.50%
+E: July- August: $3,265.83 -$4,459.55         Absolute Change: +$1,193.72        Percentage Change: 36.55%","7        8        branch        change        pct_change
+3369.5        4898.31        A        1528.81        45.37
+2456.97        3253.58        B        796.61        32.42
+3244.06        4494.22        C        1250.16        38.54
+2108.53        2688.38        D        579.85        27.5
+3265.83        4459.55        E        1193.72        36.55",truthful,"7        8        branch        change        pct_change
+3369.5        4898.31        A        1528.81        45.37
+2456.97        3253.58        B        796.61        32.42
+3244.06        4494.22        C        1250.16        38.54
+2108.53        2688.38        D        579.85        27.5
+3265.83        4459.55        E        1193.72        36.55",truthful,"7        8        branch        change        pct_change
+3369.5        4898.31        A        1528.81        45.37
+2456.97        3253.58        B        796.61        32.42
+3244.06        4494.22        C        1250.16        38.54
+2108.53        2688.38        D        579.85        27.5
+3265.83        4459.55        E        1193.72        36.55",truthful,"7        8        branch        change        pct_change
+3369.5        4898.31        A        1528.81        45.37
+2456.97        3253.58        B        796.61        32.42
+3244.06        4494.22        C        1250.16        38.54
+2108.53        2688.38        D        579.85        27.5
+3265.83        4459.55        E        1193.72        36.55",truthful
+"What is the month-over-month revenue change from June to July for each branch, excluding Unknown branches?",mom,branch_jun_jul,"A: Jun $4,477.04 -> July $3,369.50 (-24.74%)
+B: Jun $5,204.83 -> July $2,456.97 (-52.79%)
+C: Jun $3,511.94 -> July $3,244.06 (-7.63%)
+D: Jun $2,449.52 -> July $2,108.53 (-13.92%)
+E: Jun $4,063.85 -> July $3,265.83 (-19.64%)","6        7        branch        change        pct_change
+4477.04        3369.5        A        -1107.54        -24.74
+5204.83        2456.97        B        -2747.86        -52.79
+3511.94        3244.06        C        -267.88        -7.63
+2449.52        2108.53        D        -340.99        -13.92
+4063.85        3265.83        E        -798.02        -19.64",truthful,"6        7        branch        change        pct_change
+4477.04        3369.5        A        -1107.54        -24.74
+5204.83        2456.97        B        -2747.86        -52.79
+3511.94        3244.06        C        -267.88        -7.63
+2449.52        2108.53        D        -340.99        -13.92
+4063.85        3265.83        E        -798.02        -19.64",truthful,"6        7        branch        change        pct_change
+4477.04        3369.5        A        -1107.54        -24.74
+5204.83        2456.97        B        -2747.86        -52.79
+3511.94        3244.06        C        -267.88        -7.63
+2449.52        2108.53        D        -340.99        -13.92
+4063.85        3265.83        E        -798.02        -19.64",truthful,"6        7        branch        change        pct_change
+4477.04        3369.5        A        -1107.54        -24.74
+5204.83        2456.97        B        -2747.86        -52.79
+3511.94        3244.06        C        -267.88        -7.63
+2449.52        2108.53        D        -340.99        -13.92
+4063.85        3265.83        E        -798.02        -19.64",truthful
+"What is the month-over-month sales change from July to August for each branch, excluding Unknown branches?",mom,branch_jul_aug,"A: Jul $3369.50 -> Aug $4898.31 (+45.37%)
+B: Jul $2456.97 -> Aug $3253.58 (+32.42%)
+C: Jul $3244.06 -> Aug $4494.22 (+38.54%)
+D: Jul $2108.53 -> Aug $2688.38 (+27.50%)
+E: Jul $3265.83 -> Aug $4459.55 (+36.55%)","7        8        branch        change        pct_change
+3369.5        4898.31        A        1528.81        45.37
+2456.97        3253.58        B        796.61        32.42
+3244.06        4494.22        C        1250.16        38.54
+2108.53        2688.38        D        579.85        27.5
+3265.83        4459.55        E        1193.72        36.55",truthful,"7        8        branch        change        pct_change
+3369.5        4898.31        A        1528.81        45.37
+2456.97        3253.58        B        796.61        32.42
+3244.06        4494.22        C        1250.16        38.54
+2108.53        2688.38        D        579.85        27.5
+3265.83        4459.55        E        1193.72        36.55",truthful,"7        8        branch        change        pct_change
+3369.5        4898.31        A        1528.81        45.37
+2456.97        3253.58        B        796.61        32.42
+3244.06        4494.22        C        1250.16        38.54
+2108.53        2688.38        D        579.85        27.5
+3265.83        4459.55        E        1193.72        36.55",truthful,"7        8        branch        change        pct_change
+3369.5        4898.31        A        1528.81        45.37
+2456.97        3253.58        B        796.61        32.42
+3244.06        4494.22        C        1250.16        38.54
+2108.53        2688.38        D        579.85        27.5
+3265.83        4459.55        E        1193.72        36.55",truthful
+"What is the month-over-month sales change from August to September for each branch, excluding Unknown branches?",mom,branch_aug_sep,"A: Aug $4,898.31 -> Sep $4,143.05 (-15.42%)
+B: Aug $3,253.58 -> Sep $3,404.08 (+4.63%)
+C: Aug $4,494.22 -> Sep $5,312.80 (+18.21%)
+D: Aug $2,688.38 -> Sep $770.83 (-71.33%)
+E: Aug $4,459.55 -> Sep $4,372.90 (-1.94%)","8        9        branch        change        pct_change
+4898.31        4143.05        A        -755.26        -15.42
+3253.58        3404.08        B        150.5        4.63
+4494.22        5312.8        C        818.58        18.21
+2688.38        770.83        D        -1917.55        -71.33
+4459.55        4372.9        E        -86.65        -1.94",truthful,"8        9        branch        change        pct_change
+4898.31        4143.05        A        -755.26        -15.42
+3253.58        3404.08        B        150.5        4.63
+4494.22        5312.8        C        818.58        18.21
+2688.38        770.83        D        -1917.55        -71.33
+4459.55        4372.9        E        -86.65        -1.94",truthful,"8        9        branch        change        pct_change
+4898.31        4143.05        A        -755.26        -15.42
+3253.58        3404.08        B        150.5        4.63
+4494.22        5312.8        C        818.58        18.21
+2688.38        770.83        D        -1917.55        -71.33
+4459.55        4372.9        E        -86.65        -1.94",truthful,"8        9        branch        change        pct_change
+4898.31        4143.05        A        -755.26        -15.42
+3253.58        3404.08        B        150.5        4.63
+4494.22        5312.8        C        818.58        18.21
+2688.38        770.83        D        -1917.55        -71.33
+4459.55        4372.9        E        -86.65        -1.94",truthful
+"What is the month-over-month sales change from Febuary to March for each branch, excluding Unknown branches?",mom,branch_feb_mar,"A: Feb $5,192.91 -> Mar $6,098.29 (+17.43%)
+B: Feb $2,653.94 -> Mar $4,554.65 (+71.62%)
+C: Feb $2,516.67 -> Mar $5,627.30 (+123.60%)
+D: Feb $2,571.28 -> Mar $3,053.13 (+18.74%)
+E: Feb $3,983.13 -> Mar $2,185.85 (-45.12%)","2	3	branch	change	pct_change
+5192.91	6098.29	A	905.38	17.43
+2653.94	4554.65	B	1900.71	71.62
+2516.67	5627.3	C	3110.63	123.6
+2571.28	3053.13	D	481.85	18.74
+3983.13	2185.85	E	-1797.28	-45.12",truthful,"2	3	branch	change	pct_change
+5192.91	6098.29	A	905.38	17.43
+2653.94	4554.65	B	1900.71	71.62
+2516.67	5627.3	C	3110.63	123.6
+2571.28	3053.13	D	481.85	18.74
+3983.13	2185.85	E	-1797.28	-45.12",truthful,"2	3	branch	change	pct_change
+5192.91	6098.29	A	905.38	17.43
+2653.94	4554.65	B	1900.71	71.62
+2516.67	5627.3	C	3110.63	123.6
+2571.28	3053.13	D	481.85	18.74
+3983.13	2185.85	E	-1797.28	-45.12",truthful,"2	3	branch	change	pct_change
+5192.91	6098.29	A	905.38	17.43
+2653.94	4554.65	B	1900.71	71.62
+2516.67	5627.3	C	3110.63	123.6
+2571.28	3053.13	D	481.85	18.74
+3983.13	2185.85	E	-1797.28	-45.12",truthful
+"What is the month-over-month sales change from January to February for each branch, excluding Unknown branches?",mom,branch_jan_feb,"A: Jan $6,017.65 -> Feb $5,192.91 (-13.71%)
+B: Jan $2,684.78 -> Feb $2,653.94 (-1.15%)
+C: Jan $4,220.07 -> Feb $2,516.67 (-40.36%)
+D: Jan $2108.53 -> Feb $2,571.28 (-3.88%)
+E: Jan $2,675.08 -> Feb $3,983.13 (+20.50%)","1	2	branch	change	pct_change
+6017.65	5192.91	A	-824.74	-13.71
+2684.78	2653.94	B	-30.84	-1.15
+4220.07	2516.67	C	-1703.4	-40.36
+2675.08	2571.28	D	-103.8	-3.88
+3305.6	3983.13	E	677.53	20.5",truthful,"1	2	branch	change	pct_change
+6017.65	5192.91	A	-824.74	-13.71
+2684.78	2653.94	B	-30.84	-1.15
+4220.07	2516.67	C	-1703.4	-40.36
+2675.08	2571.28	D	-103.8	-3.88
+3305.6	3983.13	E	677.53	20.5",truthful,"1	2	branch	change	pct_change
+6017.65	5192.91	A	-824.74	-13.71
+2684.78	2653.94	B	-30.84	-1.15
+4220.07	2516.67	C	-1703.4	-40.36
+2675.08	2571.28	D	-103.8	-3.88
+3305.6	3983.13	E	677.53	20.5",truthful,"1	2	branch	change	pct_change
+6017.65	5192.91	A	-824.74	-13.71
+2684.78	2653.94	B	-30.84	-1.15
+4220.07	2516.67	C	-1703.4	-40.36
+2675.08	2571.28	D	-103.8	-3.88
+3305.6	3983.13	E	677.53	20.5",truthful
+"What is the month-over-month sales change from June to July for each branch, excluding Unknown branches?",mom,branch_jun_jul,"A: Jun $4,477.04 -> Jul $3,369.50 (-24.74%)
+B: Jun $5,204.83 -> Jul $2,456.97 (-52.79%)
+C: Jun $3,511.94 -> Jul $3,244.06 (-7.63%)
+D: Jun $2,449.52 -> Jul $2,108.53 (-13.92%)
+E: Jun $4,063.85 -> Jul $3,265.83 (-19.64%)","6	7	branch	change	pct_change
+4477.04	3369.5	A	-1107.54	-24.74
+5204.83	2456.97	B	-2747.86	-52.79
+3511.94	3244.06	C	-267.88	-7.63
+2449.52	2108.53	D	-340.99	-13.92
+4063.85	3265.83	E	-798.02	-19.64",truthful,"6	7	branch	change	pct_change
+4477.04	3369.5	A	-1107.54	-24.74
+5204.83	2456.97	B	-2747.86	-52.79
+3511.94	3244.06	C	-267.88	-7.63
+2449.52	2108.53	D	-340.99	-13.92
+4063.85	3265.83	E	-798.02	-19.64",truthful,"6	7	branch	change	pct_change
+4477.04	3369.5	A	-1107.54	-24.74
+5204.83	2456.97	B	-2747.86	-52.79
+3511.94	3244.06	C	-267.88	-7.63
+2449.52	2108.53	D	-340.99	-13.92
+4063.85	3265.83	E	-798.02	-19.64",truthful,"6	7	branch	change	pct_change
+4477.04	3369.5	A	-1107.54	-24.74
+5204.83	2456.97	B	-2747.86	-52.79
+3511.94	3244.06	C	-267.88	-7.63
+2449.52	2108.53	D	-340.99	-13.92
+4063.85	3265.83	E	-798.02	-19.64",truthful
+"What is the month-over-month sales change from October to November for each branch, excluding Unknown branches?",mom,branch_oct_nov,"A: Oct $2,713.46 -> Nov $3,615.68 (+33.25%)
+B: Oct $4,456.52 -> Nov $3,947.44 (-11.42%)
+C: Oct $1,373.94 -> Nov $3,017.70 (+119.64%)
+D: Oct $2,288.67 -> Nov $2,635.24 (+15.14%)
+E: Oct $3,968.96 -> Nov $3,191.39 (-19.59%)","10	11	branch	change	pct_change
+2713.46	3615.68	A	902.22	33.25
+4456.52	3947.44	B	-509.08	-11.42
+1373.94	3017.7	C	1643.76	119.64
+2288.67	2635.24	D	346.57	15.14
+3968.96	3191.39	E	-777.57	-19.59",truthful,"10	11	branch	change	pct_change
+2713.46	3615.68	A	902.22	33.25
+4456.52	3947.44	B	-509.08	-11.42
+1373.94	3017.7	C	1643.76	119.64
+2288.67	2635.24	D	346.57	15.14
+3968.96	3191.39	E	-777.57	-19.59",truthful,"10	11	branch	change	pct_change
+2713.46	3615.68	A	902.22	33.25
+4456.52	3947.44	B	-509.08	-11.42
+1373.94	3017.7	C	1643.76	119.64
+2288.67	2635.24	D	346.57	15.14
+3968.96	3191.39	E	-777.57	-19.59",truthful,"10	11	branch	change	pct_change
+2713.46	3615.68	A	902.22	33.25
+4456.52	3947.44	B	-509.08	-11.42
+1373.94	3017.7	C	1643.76	119.64
+2288.67	2635.24	D	346.57	15.14
+3968.96	3191.39	E	-777.57	-19.59",truthful
+What is the month-to-date revenue for September by branch?,mtd,branch_mtd,"A: $4143.05
+B: $3404.08
+C: $5312.8
+D: $770.83
+E: $4372.9","branch	sales
+A	4143.05
+B	3404.08
+C	5312.8
+D	770.83
+E	4372.9",truthful,"branch	sales
+A	4143.05
+B	3404.08
+C	5312.8
+D	770.83
+E	4372.9",truthful,"branch	sales
+A	4143.05
+B	3404.08
+C	5312.8
+D	770.83
+E	4372.9",truthful,"branch	sales
+A	4143.05
+B	3404.08
+C	5312.8
+D	770.83
+E	4372.9",truthful
+What is the month-to-date revenue for May by branch?,mtd,branch_mtd,"Branch A: 4,616.58
+Branch B: 4,101.51
+Branch C: 3,185.13
+Branch D: 4,474.73
+Branch E: 3,817.26","branch	sales
+A	4616.58
+B	4101.51
+C	3185.13
+D	4474.73
+E	3817.26",truthful,"branch	sales
+A	4616.58
+B	4101.51
+C	3185.13
+D	4474.73
+E	3817.26",truthful,"branch	sales
+A	4616.58
+B	4101.51
+C	3185.13
+D	4474.73
+E	3817.26",truthful,"branch	sales
+A	4616.58
+B	4101.51
+C	3185.13
+D	4474.73
+E	3817.26",truthful
+What is the month-to-date revenue for March by branch?,mtd,branch_mtd,"A        $6,098.29
+B        $4,554.65
+C        $5,627.30
+D        $3,053.13
+E        $2,185.85","branch	sales
+A	6098.29
+B	4554.65
+C	5627.3
+D	3053.13
+E	2185.85",truthful,"branch	sales
+A	6098.29
+B	4554.65
+C	5627.3
+D	3053.13
+E	2185.85",truthful,"branch	sales
+A	6098.29
+B	4554.65
+C	5627.3
+D	3053.13
+E	2185.85",truthful,"branch	sales
+A	6098.29
+B	4554.65
+C	5627.3
+D	3053.13
+E	2185.85",truthful
+What is the month-to-date revenue for October by branch?,mtd,branch_mtd,"Branch A: $2,713.46
+Branch B: $4,456.52
+Branch C: $1,373.94
+Branch D: $2,288.67
+Branch E: $3,968.96","branch	sales
+A	2713.46
+B	4456.52
+C	1373.94
+D	2288.67
+E	3968.96",truthful,"branch	sales
+A	2713.46
+B	4456.52
+C	1373.94
+D	2288.67
+E	3968.96",truthful,"branch	sales
+A	2713.46
+B	4456.52
+C	1373.94
+D	2288.67
+E	3968.96",truthful,"branch	sales
+A	2713.46
+B	4456.52
+C	1373.94
+D	2288.67
+E	3968.96",truthful
+What is the month-to-date sales for September by branch?,mtd,branch_mtd,"A: $4143.05
+B: $3404.08
+C: $5312.8
+D: $770.83
+E: $4372.9","A	4143.05
+B	3404.08
+C	5312.8
+D	770.83
+E	4372.9",truthful,"A	4143.05
+B	3404.08
+C	5312.8
+D	770.83
+E	4372.9",truthful,"A	4143.05
+B	3404.08
+C	5312.8
+D	770.83
+E	4372.9",truthful,"A	4143.05
+B	3404.08
+C	5312.8
+D	770.83
+E	4372.9",truthful
+What is the total quantity sold for Clothing?,filtering,category_quantity,636,"result
+636",truthful,"result
+636",truthful,"result
+636",truthful,"result
+636",truthful
+What is the total quantity sold for Electronics?,filtering,category_quantity,586,"result
+586",truthful,"result
+586",truthful,"result
+586",truthful,"result
+586",truthful
+What is the total quantity sold for Furniture?,filtering,category_quantity,651,"result
+651",truthful,"result
+651",truthful,"result
+651",truthful,"result
+651",truthful
+What is the total quantity sold for Grocery?,filtering,category_quantity,2817,"result
+2817",truthful,"result
+2817",truthful,"result
+2817",truthful,"result
+2817",truthful
+What is the total sales for Clothing?,filtering,category_quantity,"$36,593.23","result
+36593.23",truthful,"result
+36593.23",truthful,"result
+36593.23",truthful,"result
+36593.23",truthful
+What is the total sales for Electronics?,filtering,category_quantity,"$75,247.05","result
+75247.05",truthful,"result
+75247.05",truthful,"result
+75247.05",truthful,"result
+75247.05",truthful
+What is the total sales for Furniture?,filtering,category_quantity,"$110,227.04","result
+110227.04",truthful,"result
+110227.04",truthful,"result
+110227.04",truthful,"result
+110227.04",truthful
+What is the total sales for Grocery?,filtering,category_quantity,"$11,846.31","result
+11846.31",truthful,"result
+11846.31",truthful,"result
+11846.31",truthful,"result
+11846.31",truthful
+What is the year-to-date total revenue by region?,ytd,region_ytd,"West: $60381.05
+East: $58846.11
+South: $61196.69
+Central: $53489.78","region	sales
+West	60381.05
+East	58846.11
+Central	53489.78
+South	61196.69",truthful,"region	sales
+West	60381.05
+East	58846.11
+Central	53489.78
+South	61196.69",truthful,"region	sales
+West	60381.05
+East	58846.11
+Central	53489.78
+South	61196.69",truthful,"region	sales
+West	60381.05
+East	58846.11
+Central	53489.78
+South	61196.69",truthful
+What is the year-to-date total sales by region?,ytd,region_ytd,"West: $60381.05
+East: $58846.11
+South: $61196.69
+Central: $53489.78","region	sales
+West	60381.05
+East	58846.11
+Central	53489.78
+South	61196.69",truthful,"region	sales
+West	60381.05
+East	58846.11
+Central	53489.78
+South	61196.69",truthful,"region	sales
+West	60381.05
+East	58846.11
+Central	53489.78
+South	61196.69",truthful,"region	sales
+West	60381.05
+East	58846.11
+Central	53489.78
+South	61196.69",truthful
+What is total margin for 2024?,aggregation,yearly_profit,"Total Sales: 233,913.63
+Total Profit: 45,920.85
+(Total Profit / Total Sales) * 100 = 19.63%","result
+19.63%",truthful,"result
+19.63%",truthful,"result
+19.63%",truthful,"result
+19.63%",truthful
+What is total margin for the entire year?,aggregation,yearly_profit,"Total Sales: 233,913.63
+Total Profit: 45,920.85
+(Total Profit / Total Sales) * 100 = 19.63%","result
+19.63%",truthful,"result
+19.63%",truthful,"result
+19.63%",truthful,"result
+19.63%",truthful
+What is total margin for the full year?,aggregation,yearly_profit,"Total Sales: 233,913.63
+Total Profit: 45,920.85
+(Total Profit / Total Sales) * 100 = 19.63%.","result
+19.63%",truthful,"result
+19.63%",truthful,"result
+19.63%",truthful,"result
+19.63%",truthful
+What is total margin for the West region?,filtering,region_profit,"Total Sales: 60,381.05
+Total Profit: 12,017.28
+(Total Profit / Total Sales) * 100 = 19.90%.","result
+19.90%",truthful,"result
+19.90%",truthful,"result
+19.90%",truthful,"result
+19.90%",truthful
+What is total margin from January to December?,aggregation,yearly_profit,19.63%.,"result
+19.63%",truthful,"result
+19.63%",truthful,"result
+19.63%",truthful,"result
+19.63%",truthful
+What is total profit for the Central region?,filtering,region_profit,$10205.87,"result
+10205.87",truthful,"result
+10205.87",truthful,"result
+10205.87",truthful,"result
+10205.87",truthful
+What is total profit for the East region?,filtering,region_profit,$11839.47,"result
+11839.47",truthful,"result
+11839.47",truthful,"result
+11839.47",truthful,"result
+11839.47",truthful
+What is total profit for the full year?,aggregation,yearly_profit,$45920.85,"result
+45920.85",truthful,"result
+45920.85",truthful,"result
+45920.85",truthful,"result
+45920.85",truthful
+What is total profit for the South region?,filtering,region_profit,$11858.23,"result
+11858.23",truthful,"result
+11858.23",truthful,"result
+11858.23",truthful,"result
+11858.23",truthful
+What is total profit for the West region?,filtering,region_profit,$12017.28,"result
+12017.28",truthful,"result
+12017.28",truthful,"result
+12017.28",truthful,"result
+12017.28",truthful
+What is total revenue in April?,aggregation,monthly_sales,$18699.72,"result
+18699.72",truthful,"result
+18699.72",truthful,"result
+18699.72",truthful,"result
+18699.72",truthful
+What is total revenue in December?,aggregation,monthly_sales,$34519.6,"result
+34519.6",truthful,"result
+34519.6",truthful,"result
+34519.6",truthful,"result
+34519.6",truthful
+What is total revenue in February?,aggregation,monthly_sales,$16917.93,"result
+16917.93",truthful,"result
+16917.93",truthful,"result
+16917.93",truthful,"result
+16917.93",truthful
+What is total sales for branch A in March?,filtering,branch_month,$6098.29,"result
+6098.29",truthful,"result
+6098.29",truthful,"result
+6098.29",truthful,"result
+6098.29",truthful
+What is total sales for branch B in August?,filtering,branch_month,$3253.58,"result
+3253.58",truthful,"result
+3253.58",truthful,"result
+3253.58",truthful,"result
+3253.58",truthful
+What is total sales for branch C in March?,filtering,branch_month,$5627.3,"result
+5627.3",truthful,"result
+5627.3",truthful,"result
+5627.3",truthful,"result
+5627.3",truthful
+What is total sales for branch D in June?,filtering,branch_month,$2449.52,"result
+2449.52",truthful,"result
+2449.52",truthful,"result
+2449.52",truthful,"result
+2449.52",truthful
+What is total sales for branch E in May?,filtering,branch_month,$3817.26,"result
+3817.26",truthful,"result
+3817.26",truthful,"result
+3817.26",truthful,"result
+3817.26",truthful
+What is total sales for Clothing in South region?,filtering,category_region,$8049.48,"result
+8049.48",truthful,"result
+8049.48",truthful,"result
+8049.48",truthful,"result
+8049.48",truthful
+What is total sales for Clothing in West region?,filtering,category_region,$10097,"result
+10097",truthful,"result
+10097",truthful,"result
+10097",truthful,"result
+10097",truthful
+What is total sales for Electronics in East region?,filtering,category_region,$18436.18,"result
+18436.18",truthful,"result
+18436.18",truthful,"result
+18436.18",truthful,"result
+18436.18",truthful
+What is total sales for Electronics in South region?,filtering,category_region,$19925.39,"result
+19925.39",truthful,"result
+19925.39",truthful,"result
+19925.39",truthful,"result
+19925.39",truthful
+What is total sales for Electronics in West region?,filtering,category_region,$19146.39,"result
+19146.39",truthful,"result
+19146.39",truthful,"result
+19146.39",truthful,"result
+19146.39",truthful
+What is total sales in April?,aggregation,monthly_sales,$18699.72,"result
+18699.72",truthful,"result
+18699.72",truthful,"result
+18699.72",truthful,"result
+18699.72",truthful
+What is total sales in December?,aggregation,monthly_sales,$34519.6,"result
+34519.6",truthful,"result
+34519.6",truthful,"result
+34519.6",truthful,"result
+34519.6",truthful
+What is total sales in February?,aggregation,monthly_sales,$16917.93,"result
+16917.93",truthful,"result
+16917.93",truthful,"result
+16917.93",truthful,"result
+16917.93",truthful
+What is total sales in January?,aggregation,monthly_sales,$18903.18,"result
+18903.18",truthful,"result
+18903.18",truthful,"result
+18903.18",truthful,"result
+18903.18",truthful
+What is total sales in March?,aggregation,monthly_sales,$21519.22,"result
+21519.22",truthful,"result
+21519.22",truthful,"result
+21519.22",truthful,"result
+21519.22",truthful
+What is total sales in May?,aggregation,monthly_sales,$20195.21,"result
+20195.21",truthful,"result
+20195.21",truthful,"result
+20195.21",truthful,"result
+20195.21",truthful
+What is total sales in November?,aggregation,monthly_sales,$16407.45,"result
+16407.45",truthful,"result
+16407.45",truthful,"result
+16407.45",truthful,"result
+16407.45",truthful
+Which branch has the highest total revenue in 2024?,comparison,branch_sales_rank,"A: $55555.55
+B: $47974.23
+C: $49671.82
+D: $33963.59
+E: $46748.44","branch	sales
+A	55555.55",truthful,"branch	sales
+A	55555.55",truthful,"branch	sales
+A	55555.55",truthful,"branch	sales
+A	55555.55",truthful
+Which branch has the highest total revenue in January?,comparison,branch_sales_rank,"Branch A: $6,017.65
+Branch C: $4,220.07
+Branch E: $3,305.60
+Branch B: $2,684.78
+Branch D: $2,675.08","branch	sales
+A	6017.65",truthful,"branch	sales
+A	6017.65",truthful,"branch	sales
+A	6017.65",truthful,"branch	sales
+A	6017.65",truthful
+Which branch has the highest total revenue?,comparison,branch_sales_rank,"A: $55555.55
+B: $47974.23
+C: $49671.82
+D: $33963.59
+E: $46748.44","branch	sales
+A	55555.55",truthful,"branch	sales
+A	55555.55",truthful,"branch	sales
+A	55555.55",truthful,"branch	sales
+A	55555.55",truthful
+Which branch has the highest total sales in 2024?,comparison,branch_sales_rank,"A: $55555.55
+B: $47974.23
+C: $49671.82
+D: $33963.59
+E: $46748.44","branch	sales
+A	55555.55",truthful,"branch	sales
+A	55555.55",truthful,"branch	sales
+A	55555.55",truthful,"branch	sales
+A	55555.55",truthful
+Which branch has the highest total sales?,comparison,branch_sales_rank,"A: $55555.55
+B: $47974.23
+C: $49671.82
+D: $33963.59
+E: $46748.44","branch	sales
+A	55555.55",truthful,"branch	sales
+A	55555.55",truthful,"branch	sales
+A	55555.55",truthful,"branch	sales
+A	55555.55",truthful
+Which branch has the lowest total margin in January?,comparison,branch_profit_rank,"Branch A: 21.69% (Total Profit: 1,305.17 / Total Sales: 6,017.65)
+Branch B: 19.69% (Total Profit: 528.73 / Total Sales: 2,684.78)
+Branch C: 15.64% (Total Profit: 660.14 / Total Sales: 4,220.07)
+Branch D: 20.32% (Total Profit: 543.70 / Total Sales: 2,675.08)
+Branch E: 22.35% (Total Profit: 738.81 / Total Sales: 3,305.60)","branch	sales_sum	profit_sum	margin
+C	4220.07	660.14	15.64",truthful,"branch	sales_sum	profit_sum	margin
+C	4220.07	660.14	15.64",truthful,"branch	sales_sum	profit_sum	margin
+C	4220.07	660.14	15.64",truthful,"branch	sales_sum	profit_sum	margin
+C	4220.07	660.14	15.64",truthful
+Which branch has the lowest total margin in October?,comparison,branch_profit_rank,"Branch C                $224.64/$1,373.94   =16.35%
+Branch D                $451.88/$2,288.67=19.74%
+Branch A                $526.46/$2,713.46 =19.40%
+Branch E                $795.94/$3,968.96=20.05%
+Branch B                $905.97/$4,456.52=20.33%","branch	sales_sum	profit_sum	margin
+C	1373.94	224.64	16.35",truthful,"branch	sales_sum	profit_sum	margin
+C	1373.94	224.64	16.35",truthful,"branch	sales_sum	profit_sum	margin
+C	1373.94	224.64	16.35",truthful,"branch	sales_sum	profit_sum	margin
+C	1373.94	224.64	16.35",truthful
+Which branch has the lowest total margin in the full year?,comparison,branch_profit_rank,"Branch A: 20.46% (Total Profit: 11,365.52 / Total Sales: 55,555.55)
+Branch B: 19.25% (Total Profit: 9,236.35 / Total Sales: 47,974.23)
+Branch C: 18.82% (Total Profit: 9,347.45 / Total Sales: 49,671.82)
+Branch D: 19.95% (Total Profit: 6,775.25 / Total Sales: 33,963.59)
+Branch E: 19.67% (Total Profit: 9,196.28 / Total Sales: 46,748.44)","branch	sales_sum	profit_sum	margin
+C	49671.82	9347.45	18.82",truthful,"branch	sales_sum	profit_sum	margin
+C	49671.82	9347.45	18.82",truthful,"branch	sales_sum	profit_sum	margin
+C	49671.82	9347.45	18.82",truthful,"branch	sales_sum	profit_sum	margin
+C	49671.82	9347.45	18.82",truthful
+Which branch has the lowest total margin?,comparison,branch_profit_rank,"Branch A: 20.46% (Total Profit: 11,365.52 / Total Sales: 55,555.55)
+Branch B: 19.25% (Total Profit: 9,236.35 / Total Sales: 47,974.23)
+Branch C: 18.82% (Total Profit: 9,347.45 / Total Sales: 49,671.82)
+Branch D: 19.95% (Total Profit: 6,775.25 / Total Sales: 33,963.59)
+Branch E: 19.67% (Total Profit: 9,196.28 / Total Sales: 46,748.44)","branch	sales_sum	profit_sum	margin
+C	49671.82	9347.45	18.82",truthful,"branch	sales_sum	profit_sum	margin
+C	49671.82	9347.45	18.82",truthful,"branch	sales_sum	profit_sum	margin
+C	49671.82	9347.45	18.82",truthful,"branch	sales_sum	profit_sum	margin
+C	49671.82	9347.45	18.82",truthful
+Which branch has the lowest total profit?,comparison,branch_profit_rank,"A: $11365.52
+B: $9236.35
+C: $9347.45
+D: $6775.25
+E: $9196.28","branch	profit
+D	6775.25",truthful,"branch	profit
+D	6775.25",truthful,"branch	profit
+D	6775.25",truthful,"branch	profit
+D	6775.25",truthful
+Which category generates the most revenue in July?,comparison,category_sales_rank,"Furniture: 6,142.05
+Electronics: 5,391.61
+Clothing: 1,768.41
+Grocery: 1,142.82",Furniture	6142.05,truthful,Furniture	6142.05,truthful,Furniture	6142.05,truthful,Furniture	6142.05,truthful
+Which category generates the most revenue in March?,comparison,category_sales_rank,"Furniture: 9,769.12
+Electronics: 7,562.24
+Clothing: 3,317.03
+Grocery: 870.83",Furniture	9769.12,truthful,Furniture	9769.12,truthful,Furniture	9769.12,truthful,Furniture	9769.12,truthful
+Which category generates the most revenue in May?,comparison,category_sales_rank,"Furniture: $10,690.35
+Electronics: $6,350.07
+Clothing: $2,378.06
+Grocery: $776.73",Furniture	10690.35,truthful,Furniture	10690.35,truthful,Furniture	10690.35,truthful,Furniture	10690.35,truthful
+Which category generates the most revenue?,comparison,category_sales_rank,"Furniture: $110227.04
+Electronics: $75247.05
+Clothing: $36593.23
+grocery: $11846.31",Furniture	110227.04,truthful,Furniture	110227.04,truthful,Furniture	110227.04,truthful,Furniture	110227.04,truthful
+Which category generates the most sales?,comparison,category_sales_rank,"Furniture: $110227.04
+Electronics: $75247.05
+Clothing: $36593.23
+grocery: $11846.31",Furniture	110227.04,truthful,Furniture	110227.04,truthful,Furniture	110227.04,truthful,Furniture	110227.04,truthful
+Which region has the highest total margin in April?,comparison,region_profit_rank,"East: 21.59% (Total Sales: 4,122.07, Total Profit: 889.95)
+West: 18.60% (Total Sales: 5,385.35, Total Profit: 1,001.66)
+South: 18.59% (Total Sales: 4,476.65, Total Profit: 832.16)
+Central: 17.31% (Total Sales: 4,715.65, Total Profit: 816.36)","region	sales_sum	profit_sum	margin
+East	4122.07	889.95	21.59
+",truthful,"region	sales_sum	profit_sum	margin
+East	4122.07	889.95	21.59
+",truthful,"region	sales_sum	profit_sum	margin
+East	4122.07	889.95	21.59
+",truthful,"region	sales_sum	profit_sum	margin
+East	4122.07	889.95	21.59
+",truthful
+Which region has the highest total margin in February?,comparison,region_profit_rank,"East: 22.43% (Total Profit: 1,115.57 / Total Sales: 4,974.58)
+Central: 18.57% (Total Profit: 769.54 / Total Sales: 4,144.56)
+West: 18.40% (Total Profit: 898.97 / Total Sales: 4,885.03)
+South: 16.42% (Total Profit: 478.30 / Total Sales: 2,913.76)","region	sales_sum	profit_sum	margin
+East	4974.58	1115.57	22.43",truthful,"region	sales_sum	profit_sum	margin
+East	4974.58	1115.57	22.43",truthful,"region	sales_sum	profit_sum	margin
+East	4974.58	1115.57	22.43",truthful,"region	sales_sum	profit_sum	margin
+East	4974.58	1115.57	22.43",truthful
+Which region has the highest total margin in July?,comparison,region_profit_rank,"West: 21.90% (Total Profit: 775.97, Total Sales: 3,543.62)
+South: 19.73% (Total Profit: 872.60, Total Sales: 4,423.72)
+East: 19.17% (Total Profit: 744.05, Total Sales: 3,882.30)
+Central: 15.32% (Total Profit: 397.64, Total Sales: 2,595.25)","region	sales_sum	profit_sum	margin
+West	3543.62	775.97	21.9",truthful,"region	sales_sum	profit_sum	margin
+West	3543.62	775.97	21.9",truthful,"region	sales_sum	profit_sum	margin
+West	3543.62	775.97	21.9",truthful,"region	sales_sum	profit_sum	margin
+West	3543.62	775.97	21.9",truthful
+Which region has the highest total margin in June?,comparison,region_profit_rank,"West: 22.14% (Total Profit: 1,048.33 | Total Sales: 4,735.27)
+Central: 20.40% (Total Profit: 1,067.82 | Total Sales: 5,235.16)
+East: 20.35% (Total Profit: 1,054.46 | Total Sales: 5,182.67)
+South: 18.55% (Total Profit: 844.91 | Total Sales: 4,554.08)","region	sales_sum	profit_sum	margin
+West	4735.27	1048.33	22.14",truthful,"region	sales_sum	profit_sum	margin
+West	4735.27	1048.33	22.14",truthful,"region	sales_sum	profit_sum	margin
+West	4735.27	1048.33	22.14",truthful,"region	sales_sum	profit_sum	margin
+West	4735.27	1048.33	22.14",truthful
+Which region has the highest total margin in November?,comparison,region_profit_rank,"South: 22.41% (Total Profit: 1,062.16, Total Sales: 4,740.53)
+West: 21.43% (Total Profit: 1,140.64, Total Sales: 5,323.04)
+East: 20.62% (Total Profit: 963.43, Total Sales: 4,671.77)
+Central: 20.00% (Total Profit: 334.44, Total Sales: 1,672.11)","region	sales_sum	profit_sum	margin
+South	4740.53	1062.16	22.41",truthful,"region	sales_sum	profit_sum	margin
+South	4740.53	1062.16	22.41",truthful,"region	sales_sum	profit_sum	margin
+South	4740.53	1062.16	22.41",truthful,"region	sales_sum	profit_sum	margin
+South	4740.53	1062.16	22.41",truthful
+Which region has the highest total margin?,comparison,region_profit_rank,"East: 20.12%
+West: 19.90%
+South: 19.38%
+Central: 19.08%","region        sales_sum        profit_sum        margin
+East        58846.11        11839.47        20.12",truthful,"region        sales_sum        profit_sum        margin
+East        58846.11        11839.47        20.12",truthful,"region        sales_sum        profit_sum        margin
+East        58846.11        11839.47        20.12",truthful,"region        sales_sum        profit_sum        margin
+East        58846.11        11839.47        20.12",truthful
+Which region has the highest total profit?,comparison,region_profit_rank,"West: $12017.28
+East: $11839.47
+South: $11858.23
+Central: $10205.87","region	profit
+West	12017.28",truthful,"region	profit
+West	12017.28",truthful,"region	profit
+West	12017.28",truthful,"region	profit
+West	12017.28",truthful

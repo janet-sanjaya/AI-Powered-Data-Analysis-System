@@ -1,0 +1,102 @@
+question,type,subtype
+How did margin change over the year?,trend,profit_trend
+How did profit change over the year?,trend,profit_trend
+How did sales change from April to January?,trend,month_to_month
+How did sales change from December to August?,trend,month_to_month
+How did sales change from February to October?,trend,month_to_month
+How did sales change from July to February?,trend,month_to_month
+How did sales change from March to July?,trend,month_to_month
+How did sales change from November to October?,trend,month_to_month
+How did sales change from September to February?,trend,month_to_month
+How did sales change from September to May?,trend,month_to_month
+Show the revenue trend over time.,trend,time_series
+Show the sales trend over time.,trend,time_series
+What changed compared to last month?,trend,last_month_comparison
+What changed in July compared to last month for branch E?,trend,last_month_comparison
+What changed in July compared to last month for branch C?,trend,last_month_comparison
+What changed in July compared to last month for branch D?,trend,last_month_comparison
+What changed in October compared to last month for branch A?,trend,last_month_comparison
+What changed in October compared to last month for branch B?,trend,last_month_comparison
+What is the average order value in April?,aggregation,avg_order_value
+What is the average order value in January?,aggregation,avg_order_value
+What is the average order value in May?,aggregation,avg_order_value
+What is the average order value in October?,aggregation,avg_order_value
+What is the average order value in June?,aggregation,avg_order_value
+What is the average order value overall?,aggregation,avg_order_value
+"What is the month-over-month revenue change from August to September for each branch, excluding Unknown branches?",mom,branch_aug_sep
+"What is the month-over-month revenue change from January to Febuary for each branch, excluding Unknown branches?",mom,branch_jan_feb
+"What is the month-over-month revenue change from July to August for each branch, excluding Unknown branches?",mom,branch_jul_aug
+"What is the month-over-month revenue change from June to July for each branch, excluding Unknown branches?",mom,branch_jun_jul
+"What is the month-over-month sales change from July to August for each branch, excluding Unknown branches?",mom,branch_jul_aug
+"What is the month-over-month sales change from August to September for each branch, excluding Unknown branches?",mom,branch_aug_sep
+"What is the month-over-month sales change from Febuary to March for each branch, excluding Unknown branches?",mom,branch_feb_mar
+"What is the month-over-month sales change from January to February for each branch, excluding Unknown branches?",mom,branch_jan_feb
+"What is the month-over-month sales change from June to July for each branch, excluding Unknown branches?",mom,branch_jun_jul
+"What is the month-over-month sales change from October to November for each branch, excluding Unknown branches?",mom,branch_oct_nov
+What is the month-to-date revenue for September by branch?,mtd,branch_mtd
+What is the month-to-date revenue for May by branch?,mtd,branch_mtd
+What is the month-to-date revenue for March by branch?,mtd,branch_mtd
+What is the month-to-date revenue for October by branch?,mtd,branch_mtd
+What is the month-to-date sales for September by branch?,mtd,branch_mtd
+What is the total quantity sold for Clothing?,filtering,category_quantity
+What is the total quantity sold for Electronics?,filtering,category_quantity
+What is the total quantity sold for Furniture?,filtering,category_quantity
+What is the total quantity sold for Grocery?,filtering,category_quantity
+What is the total sales for Clothing?,filtering,category_quantity
+What is the total sales for Electronics?,filtering,category_quantity
+What is the total sales for Furniture?,filtering,category_quantity
+What is the total sales for Grocery?,filtering,category_quantity
+What is the year-to-date total revenue by region?,ytd,region_ytd
+What is the year-to-date total sales by region?,ytd,region_ytd
+What is total margin for 2024?,aggregation,yearly_profit
+What is total margin for the entire year?,aggregation,yearly_profit
+What is total margin for the full year?,aggregation,yearly_profit
+What is total margin for the West region?,filtering,region_profit
+What is total margin from January to December?,aggregation,yearly_profit
+What is total profit for the Central region?,filtering,region_profit
+What is total profit for the East region?,filtering,region_profit
+What is total profit for the full year?,aggregation,yearly_profit
+What is total profit for the South region?,filtering,region_profit
+What is total profit for the West region?,filtering,region_profit
+What is total revenue in April?,aggregation,monthly_sales
+What is total revenue in December?,aggregation,monthly_sales
+What is total revenue in February?,aggregation,monthly_sales
+What is total sales for branch A in March?,filtering,branch_month
+What is total sales for branch B in August?,filtering,branch_month
+What is total sales for branch C in March?,filtering,branch_month
+What is total sales for branch D in June?,filtering,branch_month
+What is total sales for branch E in May?,filtering,branch_month
+What is total sales for Clothing in South region?,filtering,category_region
+What is total sales for Clothing in West region?,filtering,category_region
+What is total sales for Electronics in East region?,filtering,category_region
+What is total sales for Electronics in South region?,filtering,category_region
+What is total sales for Electronics in West region?,filtering,category_region
+What is total sales in April?,aggregation,monthly_sales
+What is total sales in December?,aggregation,monthly_sales
+What is total sales in February?,aggregation,monthly_sales
+What is total sales in January?,aggregation,monthly_sales
+What is total sales in March?,aggregation,monthly_sales
+What is total sales in May?,aggregation,monthly_sales
+What is total sales in November?,aggregation,monthly_sales
+Which branch has the highest total revenue in 2024?,comparison,branch_sales_rank
+Which branch has the highest total revenue in January?,comparison,branch_sales_rank
+Which branch has the highest total revenue?,comparison,branch_sales_rank
+Which branch has the highest total sales in 2024?,comparison,branch_sales_rank
+Which branch has the highest total sales?,comparison,branch_sales_rank
+Which branch has the lowest total margin in January?,comparison,branch_profit_rank
+Which branch has the lowest total margin in October?,comparison,branch_profit_rank
+Which branch has the lowest total margin in the full year?,comparison,branch_profit_rank
+Which branch has the lowest total margin?,comparison,branch_profit_rank
+Which branch has the lowest total profit?,comparison,branch_profit_rank
+Which category generates the most revenue in July?,comparison,category_sales_rank
+Which category generates the most revenue in March?,comparison,category_sales_rank
+Which category generates the most revenue in May?,comparison,category_sales_rank
+Which category generates the most revenue?,comparison,category_sales_rank
+Which category generates the most sales?,comparison,category_sales_rank
+Which region has the highest total margin in April?,comparison,region_profit_rank
+Which region has the highest total margin in February?,comparison,region_profit_rank
+Which region has the highest total margin in July?,comparison,region_profit_rank
+Which region has the highest total margin in June?,comparison,region_profit_rank
+Which region has the highest total margin in November?,comparison,region_profit_rank
+Which region has the highest total margin?,comparison,region_profit_rank
+Which region has the highest total profit?,comparison,region_profit_rank
